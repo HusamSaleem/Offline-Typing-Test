@@ -291,7 +291,7 @@ public class TypingTestDriver extends JFrame {
 			String word = fileReader.next();
 			wordList.add(word);
 		}
-	}
+	} 
 
 	private void shuffleWords() {
 		Random rand = new Random();
